@@ -11,6 +11,6 @@
 
 from .ext import InvenioCollections
 
-__version__ = "0.5.0.post1000"
+__version__ = "0.5.0.post1001"
 
 __all__ = ("__version__", "InvenioCollections")
